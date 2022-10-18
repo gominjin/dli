@@ -16,3 +16,4 @@ Getting Started with AI on Jetson Nano
 <b> 4. Regression 
   <br>
 <b> 5. 오류
+<b> 6. 용어정리 
