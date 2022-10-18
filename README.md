@@ -14,4 +14,5 @@ Getting Started with AI on Jetson Nano
 <b> 3. Classification
   <br>
 <b> 4. Regression 
-<b> 오류
+  <br>
+<b> 5. 오류
